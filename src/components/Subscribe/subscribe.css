@@ -1,0 +1,15 @@
+.subscribe-area {
+    max-width: 500px;
+    margin: auto;
+    position: relative;
+    bottom: -90px;
+    right: 0;
+    left: 0;
+}
+.subscribe {
+    background-color: #1b2330;
+    border-radius: 5px;
+}
+.subscribe h2 {
+    font-size: x-large;
+}

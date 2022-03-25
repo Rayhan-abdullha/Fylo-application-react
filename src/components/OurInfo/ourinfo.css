@@ -1,0 +1,15 @@
+.container.ourInfo.py-50 img {
+    width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+    .container.ourInfo.py-50 img {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .container.ourInfo.py-50 img {
+        width: 80%;
+    }
+}

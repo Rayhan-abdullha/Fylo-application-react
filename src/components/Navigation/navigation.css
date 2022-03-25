@@ -1,0 +1,30 @@
+.logo {
+    width: 100px;
+}
+a.nav-link {
+    color: #f0f8ff!important;
+    transition: .3s;
+    font-weight: 500;
+}
+footer a:hover {
+    color: #53cbd8!important;
+    transition: .3s;
+    text-decoration: underline;
+}
+a.nav-link:hover {
+    color: #131313!important;
+    padding-left: 10px;
+}
+span.navbar-toggler-icon {
+    background: aliceblue;
+    border-radius: 5px;
+}
+.navbar-toggler:focus {
+    box-shadow: none!important;
+}
+.navbar-light .navbar-toggler {
+    background: aliceblue;
+}
+nav.sticky-top.navbar.navbar-expand-lg.navbar-light {
+    background-color: #53cbd8;
+}

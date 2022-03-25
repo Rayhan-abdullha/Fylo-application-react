@@ -1,0 +1,17 @@
+.single-review {
+    background-color: #1b2330;
+    border-radius: 5px;
+}
+.user.d-flex img {
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+    margin-right: 15px;
+}
+article.userInfo h6 {
+    font-size: 14px;
+}
+
+article.userInfo p {
+    font-size: 14px;
+}
